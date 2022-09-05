@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Welp](https://github.com/Sha-Shak/welp)
 
-- 🌱 I’m currently learning **JS, React, NextJS**
+- 🌱 I’m currently Working with **JS, React, Express**
 
 - 💬 Ask me about **JS, React, CSS**
 
