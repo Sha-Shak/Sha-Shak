@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-shak&label=Profile%20views&color=0e75b6&style=flat" alt="sha-shak" /> </p>
 
-- 🔭 I’m currently working on [Welp](https://github.com/Sha-Shak/welp)
 
-- 🌱 I’m currently Working with **JS, Angular, React, Express**
+- 🌱 I’m currently Working with **JS, Angular, Express**
 
 - 💬 Ask me about **JS, Angular, React, CSS**
 
